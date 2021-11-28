@@ -1,2 +1,2 @@
 var commandLineArgs = process.argv;
-consol.log(commandLineArgs);
+console.log(commandLineArgs);
